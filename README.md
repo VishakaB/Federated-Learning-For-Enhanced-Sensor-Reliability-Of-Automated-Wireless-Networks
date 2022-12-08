@@ -1,6 +1,6 @@
 # Federated-Learning-For-Enhanced-Sensor-Reliability-Of-Automated-Wireless-Networks
 
-Find thesis at: https://www.researchgate.net/publication/360065150_Master's_Thesis_Federated_Learning_For_Enhanced_Sensor_Reliability_Of_Automated_Wireless_Networks
+Find thesis at: http://jultika.oulu.fi/Record/nbnfioulu-201908142761
 
 Autonomous mobile robots working in-proximity humans and objects are becoming frequent and thus, avoiding collisions becomes important to increase the safety of the working environment. This thesis develops a mechanism to improve the reliability of sensor measurements in a mobile robot network taking into the account of inter-robot communication and costs of faulty sensor replacements. 
 
