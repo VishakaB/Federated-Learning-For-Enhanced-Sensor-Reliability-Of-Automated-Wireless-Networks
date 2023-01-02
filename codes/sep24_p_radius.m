@@ -58,9 +58,9 @@ while time_index <= total_time
 %         estscale =  5.3413;
 %        LL_estH(time_index,robo_index) = ...
 %        log((estshape/estscale) * (time_index./estscale) .^ (estshape-1) .*exp (- (time_index ./estscale).^estscale)./( 1 - exp ( -(maximum_lifetime/estscale)^estscale)));
-       optimization_full_knowledge;
+        optimization_full_knowledge;
         
-       age{time_index+1,robo_index} = age{time_index,robo_index} + age_increment;
+        age{time_index+1,robo_index} = age{time_index,robo_index} + age_increment;
         
     end
     
